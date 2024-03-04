@@ -31,11 +31,13 @@
 
 ## Projects 
 
--Healthier App 🍎 🍌 🍐 🍉 --> Healthy food e-commerce. Work in progress
-<br>
--Weather App 🌤️ 🌧️ --> React app consuming and api to show different cities and their forecast!
+-Healthier App 🍎 🍌 🍐 🍉 --> Healthy food e-commerce.
 <br>
 -Dog App 🐕 🦴 --> Full stack app consuming an api to show and create new dogos!
+<br>
+-Web Portfolio. WORK IN PROGRESS
+<br>
+-Tinder Swipe
 
 ## Wish-List
 
@@ -48,5 +50,5 @@
 ## Get in touch!
 Email: santiagozapata07@gmail.com
 <br>
-LinkedIn: https://www.linkedin.com/in/santiagoca%C3%B1aszapata/
+LinkedIn: https://www.linkedin.com/in/santiagocanas/
 
