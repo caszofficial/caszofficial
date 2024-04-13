@@ -33,11 +33,11 @@
 
 -Healthier App 🍎 🍌 🍐 🍉 --> Healthy food e-commerce.
 <br>
--Dog App 🐕 🦴 --> Full stack app consuming an api to show and create new dogos!
-<br>
--Web Portfolio. WORK IN PROGRESS
+-Web Portfolio - WORK IN PROGRESS
 <br>
 -Tinder Swipe
+<br>
+-Web Ecommerce - WORK IN PROGRESS
 
 ## Wish-List
 
